@@ -1,0 +1,14 @@
+
+
+img {
+  height: 450px;
+  border-radius: 15px;
+  object-fit:cover;
+  width: 300px;
+  margin:7px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
